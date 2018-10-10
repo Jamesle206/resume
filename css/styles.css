@@ -1,0 +1,15 @@
+.edu {
+  text-align: center;
+  color: blue;
+}
+.work {
+  text-align: center;
+  color: red;
+}
+.skills {
+  text-align: center;
+  color: green;
+}
+.food {
+  font-weight: bold;
+}
